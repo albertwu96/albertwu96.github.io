@@ -16,11 +16,4 @@ redirect_from:
 * My research interests focus on the general area of machine learning, currently thinks more about reinforcement learning theory as well as their real life applications in multi-agent systems.
 * I received my Bachelor's Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
-Work experience
-======
-* Summer 2019: Reinforcement Learning Engineer Intern, [Tencent AIPD](https://ai.qq.com/hr/ailab.shtml)
-  * Implemented and trained the reinforcement learning algorithm A3C and PPO with deep value and policy network for agent to play MOBA games (王者荣耀). [[news](https://new.qq.com/notfound.htm?uri=http://new.qq.com/omn/20190805/20190805A0AIHX.html)]
-  * Supervisor: [Dr.Deheng Ye](https://yedeheng.weebly.com/)
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=V9V0w7npnmo-y4EGo1Ss0TXITRWzme3wHD7iNwLGWPk&co=1d3a4f&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
-
