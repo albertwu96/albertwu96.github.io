@@ -3,6 +3,8 @@ main:
   - title: "CV/Bio"
     url: /cv/
 
+  - title: "Contact"
+    url: /contack/
   # - title: "Publications"
   #   url: /publications/
 
