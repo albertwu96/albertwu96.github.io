@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Hao Wu(吴昊)
+[Click here to Download My Up-to-Date Curriculum Vitae[PDF]](https://albertwu96.github.io/files/wuhao_cv_2020.pdf)
+<!-- 
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
