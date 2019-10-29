@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://albertwu96.github.io/images/haowu.jpeg" alt="Photo of Hao Wu" width="450"/>
+<center>
+  <img src="https://albertwu96.github.io/images/haowu.jpeg" alt="Photo of Hao Wu" width="450"/>
+</center>
 
 * I am a M.S. student in the [Computer Science Deparment](https://cs.illinois.edu/) at the University of Illinois Urbana-Champaign. [[Curriculum Vitae](https://albertwu96.github.io/files/wuhao_cv_2020.pdf)].
 * My research interests focus on the general area of machine learning, currently thinks more about reinforcement learning theory as well as their real life applications in multi-agent systems.
