@@ -4,7 +4,8 @@ main:
     url: /cv/
 
   - title: "Contact"
-    url: /contack/
+    url: /contact/
+    
   # - title: "Publications"
   #   url: /publications/
 
