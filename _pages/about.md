@@ -13,7 +13,7 @@ redirect_from:
 </center>
 
 * I am a M.S. student in the [Computer Science Deparment](https://cs.illinois.edu/) at the University of Illinois Urbana-Champaign. [[Curriculum Vitae](https://albertwu96.github.io/files/wuhao_cv_2020.pdf)].
-* My research interests focus on the general area of machine learning, currently thinks more about reinforcement learning theory as well as their real life applications in multi-agent systems.
+* My research interests focus on the general area of machine learning, and currently I am thinking more about reinforcement learning theory as well as their real life applications in multi-agent systems.
 * I received my Bachelor's Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=V9V0w7npnmo-y4EGo1Ss0TXITRWzme3wHD7iNwLGWPk&co=1d3a4f&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
