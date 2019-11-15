@@ -10,4 +10,4 @@ redirect_from:
 
 # Hao Wu(吴昊)
 
-[Click here to Download My Up-to-Date Curriculum Vitae [PDF]](https://albertwu96.github.io/files/wuhao_cv_2020.pdf)
+[Click here to Download My Up-to-Date Curriculum Vitae [PDF]](wuhao_cv_2020_new_grad.pdf)

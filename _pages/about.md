@@ -17,3 +17,8 @@ redirect_from:
 * I received my Bachelor's Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=V9V0w7npnmo-y4EGo1Ss0TXITRWzme3wHD7iNwLGWPk&co=1d3a4f&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+
+# Recent News
+
+* <span style="color:red">Nov 10, 2019. Our work on DeepRL in MOBA game is accepted to AAAI 2020.</span>
+* May 18, 2019. I started my summer internship in [Tencent AIPD](https://ai.qq.com/hr/ailab.shtml), supervised by [Dr. Deheng Ye](https://yedeheng.weebly.com/).
