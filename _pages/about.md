@@ -20,5 +20,6 @@ redirect_from:
 
 # Recent News
 
-* <span style="color:red">Nov 10, 2019. Our work on DeepRL in MOBA game is accepted to AAAI 2020.</span>
+* <span style="color:red">May, 2020. I will graduage from UIUC with master degree and join Tencent AI Lab.</span>
+* Nov 10, 2019. Our work on DeepRL in MOBA game is accepted to AAAI 2020.
 * May 18, 2019. I started my summer internship in [Tencent AIPD](https://ai.qq.com/hr/ailab.shtml), supervised by [Dr. Deheng Ye](https://yedeheng.weebly.com/).
